@@ -39,8 +39,10 @@ var emails = [
 var JumpPage="";
 
 var newestUrls = [
-    'https://huangguoju.com',
-    'https://997.tc41p53k.cc/chan/ak0006/ac4Ea'
+    'https://huangguotoon.com',
+	'https://859d.ek84x97n.cc',
+	'https://f375.os06f19n.cc',
+    'https://64d25.os62f75v.cc'
 ];
 
 var otherUrls = [
@@ -125,7 +127,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '黄果短剧app下载', items: newestUrls, text: '请使用https://协议访问黄果短剧app'});
+    var newestFieldElem = createFieldElem({title: '黄果漫剧app下载', items: newestUrls, text: '请使用https://协议访问黄果漫剧app'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
