@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'huangguoaiai@gmail.com'
+    'huangguoac@gmail.com'
 ];
 
 var JumpPage="";
@@ -46,12 +46,12 @@ var newestUrls = [
 ];
 
 var otherUrls = [
-	'https://huangguoai.pages.dev',
+	'https://huangguoac.pages.dev/',
 ];
 var foreverUrls = [
-	  'https://huangguoai.com',
+	  'https://huangguoac.com',
 	JumpPage,
-	'https://huangguoai.ai',
+	'https://huangguoac.net',
 	
 ];
 var notices = [
