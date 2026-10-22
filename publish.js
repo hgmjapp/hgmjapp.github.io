@@ -39,7 +39,7 @@ var emails = [
 var JumpPage="";
 
 var newestUrls = [
-    'https://huangguotoon.com',
+    'https://huangguofun.com',
 	'https://859d.ek84x97n.cc',
 	'https://f375.os06f19n.cc',
     'https://64d25.os62f75v.cc'
