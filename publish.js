@@ -40,7 +40,7 @@ var JumpPage="";
 
 var newestUrls = [
     'https://huangguofun.com',
-	'https://859d.ek84x97n.cc',
+	'https://huangguotoon.com',
 	'https://f375.os06f19n.cc',
     'https://64d25.os62f75v.cc'
 ];
